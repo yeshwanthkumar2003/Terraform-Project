@@ -1,5 +1,7 @@
 # Terraform-Practice-Project
 
+<img src="https://miro.medium.com/max/1400/1*7x7SmXVPuUZyP9GbOISZbA.png">
+
 <h3 Automate your AWS Cloud Architecture with Terraform />
 
 This is the IAC practice to create the vpc single layered Architechture in AWS Cloud
