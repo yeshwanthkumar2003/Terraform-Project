@@ -22,7 +22,7 @@ All components are Terraform based
 4) Terraform destroy
 ```
 
-Step 1: Create docker network
+Step 1: Create VPC 
 
 ```
     resource "aws_vpc" "prod-vpc" {
