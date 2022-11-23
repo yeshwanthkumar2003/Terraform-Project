@@ -22,7 +22,7 @@ All components are Terraform based
 4) Terraform destroy
 ```
 
-Step 1: Create VPC 
+Step 1: Create custom  VPC by this code
 
 ```
     resource "aws_vpc" "prod-vpc" {
