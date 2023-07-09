@@ -1,7 +1,7 @@
 # Terraform-Practice-Project
 
+![terraform project](https://github.com/yeshwanthkumar2003/Terraform-Project/assets/94180456/44565ccc-efb2-46e6-b8ba-168b7eaf2700)
 
-![terraform project](https://github.com/yeshwanthkumar2003/Terraform-Project/assets/94180456/d11293c6-80f7-4ff6-98f3-ee1be5cfd630)
 
 <h3 Automate your AWS Cloud Architecture with Terraform />
 
