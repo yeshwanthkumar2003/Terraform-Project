@@ -1,6 +1,7 @@
 # Terraform-Practice-Project
 
-<img src="https://miro.medium.com/max/1400/1*7x7SmXVPuUZyP9GbOISZbA.png">
+
+![terraform project](https://github.com/yeshwanthkumar2003/Terraform-Project/assets/94180456/d11293c6-80f7-4ff6-98f3-ee1be5cfd630)
 
 <h3 Automate your AWS Cloud Architecture with Terraform />
 
